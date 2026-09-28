@@ -2,6 +2,11 @@
 
 An end-to-end data analytics project that analyzes customer churn patterns and predicts future churners using Machine Learning. This project demonstrates the complete analytics workflow from SQL data preparation to Power BI visualization and predictive modeling using Python.
 
+## Live Dashboard
+
+View Interactive Dashboard
+https://app.powerbi.com/groups/me/reports/c1d8e1f4-2310-4587-af7e-1566df0674a6/efc3ed6c065e102e5346?experience=power-bi
+
 ---
 
 ## 🚀 Project Overview
