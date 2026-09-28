@@ -74,14 +74,14 @@ Customer-Churn-Analysis
 ## Customer Churn Summary Dashboard
 
 
-![Summary Dashboard](Images/Churn_Analysis_Summary.png)
+![Summary Dashboard](Images/Churn_Analysis_Summary.jpg)
 
 ---
 
 ## Customer Churn Prediction Dashboard
 
 
-![Prediction Dashboard](Images/Churn_Analysis_Prediction.png)
+![Prediction Dashboard](Images/Churn_Analysis_Prediction.jpg)
 
 ---
 
